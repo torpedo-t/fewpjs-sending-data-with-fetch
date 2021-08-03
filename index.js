@@ -94,4 +94,5 @@
                 console.log(error.message);
             });
     }
+    submitData("name", "email")
 // 

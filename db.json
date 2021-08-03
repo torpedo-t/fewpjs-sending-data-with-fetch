@@ -53,7 +53,13 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "name": "name",
+      "email": "email",
+      "id": 1
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
