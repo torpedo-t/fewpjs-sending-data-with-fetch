@@ -67,7 +67,7 @@
             name: name,
             email: email
         };
-    
+        console.log(formData)
         let configObj = {
             method: "POST",
             headers: {
